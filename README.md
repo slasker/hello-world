@@ -1,2 +1,7 @@
 # hello-world
-first time in github - tutorial
+
+void draw() {
+  if (keyPressed) {
+    println("hello world");
+  }
+}
