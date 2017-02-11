@@ -1,2 +1,3 @@
 # hello-world
-first time in github - tutorial
+
+Wola, este es un micro programa que hice pensado para processing, un simple helloworld, mi nombre es Sebastián. 
